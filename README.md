@@ -20,7 +20,7 @@ This repository contains the backend code for an Admin Panel, featuring user aut
 ## Setup
 1. Clone the repository:
 ``` bash
-git clone https://github.com/jatinnsharma/backendStarter.git
+git clone 
 cd backend
 ```
 2. Install dependencies:
